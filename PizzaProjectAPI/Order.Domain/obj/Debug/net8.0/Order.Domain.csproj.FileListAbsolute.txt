@@ -1,0 +1,11 @@
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Order.Domain\bin\Debug\net8.0\Order.Domain.deps.json
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Order.Domain\bin\Debug\net8.0\Order.Domain.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Order.Domain\bin\Debug\net8.0\Order.Domain.pdb
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Order.Domain\obj\Debug\net8.0\Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Order.Domain\obj\Debug\net8.0\Order.Domain.AssemblyInfoInputs.cache
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Order.Domain\obj\Debug\net8.0\Order.Domain.AssemblyInfo.cs
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Order.Domain\obj\Debug\net8.0\Order.Domain.csproj.CoreCompileInputs.cache
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Order.Domain\obj\Debug\net8.0\Order.Domain.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Order.Domain\obj\Debug\net8.0\refint\Order.Domain.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Order.Domain\obj\Debug\net8.0\Order.Domain.pdb
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Order.Domain\obj\Debug\net8.0\ref\Order.Domain.dll

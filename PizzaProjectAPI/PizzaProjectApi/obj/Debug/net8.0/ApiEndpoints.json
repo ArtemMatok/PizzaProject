@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "PizzaProjectApi.Controllers.IngredientsController",
+    "Method": "GetIngredientsAsync",
+    "RelativePath": "api/ingredients",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PizzaProjectApi.Controllers.IngredientsController",
+    "Method": "GetIngredientsBasicAsync",
+    "RelativePath": "api/ingredients/ingredients-basic",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PizzaProjectApi.Controllers.ProductsController",
+    "Method": "GetProductsBySearchQuery",
+    "RelativePath": "api/Products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "searchQuery",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,12 @@
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Domain\bin\Debug\net8.0\PizzaProjectApi.Domain.deps.json
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Domain\bin\Debug\net8.0\PizzaProjectApi.Domain.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Domain\bin\Debug\net8.0\PizzaProjectApi.Domain.pdb
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Domain\obj\Debug\net8.0\PizzaProjectApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Domain\obj\Debug\net8.0\PizzaProjectApi.Domain.AssemblyInfoInputs.cache
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Domain\obj\Debug\net8.0\PizzaProjectApi.Domain.AssemblyInfo.cs
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Domain\obj\Debug\net8.0\PizzaProjectApi.Domain.csproj.CoreCompileInputs.cache
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Domain\obj\Debug\net8.0\PizzaProjectApi.Domain.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Domain\obj\Debug\net8.0\refint\PizzaProjectApi.Domain.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Domain\obj\Debug\net8.0\PizzaProjectApi.Domain.pdb
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Domain\obj\Debug\net8.0\ref\PizzaProjectApi.Domain.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Domain\obj\Debug\net8.0\PizzaProjectApi.Domain.csproj.AssemblyReference.cache

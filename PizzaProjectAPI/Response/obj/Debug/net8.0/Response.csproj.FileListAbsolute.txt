@@ -1,0 +1,12 @@
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Response\bin\Debug\net8.0\Response.deps.json
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Response\bin\Debug\net8.0\Response.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Response\bin\Debug\net8.0\Response.pdb
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Response\obj\Debug\net8.0\Response.csproj.AssemblyReference.cache
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Response\obj\Debug\net8.0\Response.GeneratedMSBuildEditorConfig.editorconfig
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Response\obj\Debug\net8.0\Response.AssemblyInfoInputs.cache
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Response\obj\Debug\net8.0\Response.AssemblyInfo.cs
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Response\obj\Debug\net8.0\Response.csproj.CoreCompileInputs.cache
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Response\obj\Debug\net8.0\Response.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Response\obj\Debug\net8.0\refint\Response.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Response\obj\Debug\net8.0\Response.pdb
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Response\obj\Debug\net8.0\ref\Response.dll
