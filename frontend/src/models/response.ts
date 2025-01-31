@@ -1,6 +1,5 @@
-export interface ApiResponse<T> {
-    success:boolean,
-    data:T | null,
-    errorMessage?:string,
-    errors?:string[]
+export interface ResponseError {
+  error: boolean;
+  data?: any;
+  message?: string;
 }

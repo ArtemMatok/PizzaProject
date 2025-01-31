@@ -10,3 +10,4 @@ D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Domain\obj\Debug\net8.
 D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Domain\obj\Debug\net8.0\PizzaProjectApi.Domain.pdb
 D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Domain\obj\Debug\net8.0\ref\PizzaProjectApi.Domain.dll
 D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Domain\obj\Debug\net8.0\PizzaProjectApi.Domain.csproj.AssemblyReference.cache
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Domain\obj\Debug\net8.0\PizzaProjectApi.Domain.sourcelink.json

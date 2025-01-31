@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PizzaProjectApi.Application.Products.DTOs
 {
-    public record ProductSearchDto(
+    public record ProductBasicDto(
         int ProductId,
         string Name,
         string ImageUrl

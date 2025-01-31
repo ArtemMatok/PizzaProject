@@ -11,6 +11,6 @@ namespace PizzaProjectApi.Domain.Entities
     {
         //Relation
         public int CartId { get; set; }
-        public Cart Cart { get; set; }  
+        public Cart Cart { get; set; } = new Cart();
     }
 }

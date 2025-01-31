@@ -1,5 +1,5 @@
-import { useNavigate, useSearchParams } from "react-router";
-import { useMemo, useState } from "react";
+import { useSearchParams } from "react-router";
+import { useState } from "react";
 import { useSet } from "react-use";
 
 interface PriceProps {
@@ -13,7 +13,6 @@ export interface Filters{
   prices: PriceProps;
 }
 
-
 export const useFilters = () => {
   const [searchParams] = useSearchParams();
 
@@ -24,19 +23,19 @@ export const useFilters = () => {
 
   const [pizzaSizes, { toggle: togglePizzaSizes }] = useSet(
     new Set<string>(
-      searchParams.has("pizzaSizes") ? searchParams.get("pizzaSizes") : []
+      searchParams.has("pizzaSizes") ? searchParams.get("pizzaSizes")?.split(",") : []
     )
   );
 
   const [pizzaTypes, { toggle: togglePizzaTypes }] = useSet(
     new Set<string>(
-      searchParams.has("pizzaTypes") ? searchParams.get("pizzaTypes") : []
+      searchParams.has("pizzaTypes") ? searchParams.get("pizzaTypes")?.split(",") : []
     )
   );
 
   const [selectedIngredientsId, { toggle: toggleSelectedIngredients }] = useSet(
     new Set<string>(
-      searchParams.has("ingredients") ? searchParams.get("ingredients") : []
+      searchParams.has("ingredients") ? searchParams.get("ingredients")?.split(",") : []
     )
   );
 

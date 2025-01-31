@@ -11,6 +11,8 @@ namespace PizzaProjectApi.Application.Products
 {
     public interface IProductRepository
     {
-        Task<List<ProductSearchDto>> GetProductsBySearch(string searchQuery);
+        Task<List<ProductBasicDto>> GetProductsBySearch(string searchQuery);
+        Task<Result<ProductEntity>> GetProductById(int productId);
+
     }
 }

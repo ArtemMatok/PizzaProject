@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PizzaProjectApi.Domain\PizzaProjectApi.Domain.csproj" />
+    <ProjectReference Include="..\Redis\Redis.csproj" />
     <ProjectReference Include="..\Response\Response.csproj" />
   </ItemGroup>
 

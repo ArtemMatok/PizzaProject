@@ -13,18 +13,37 @@ namespace PizzaProjectApi.Infrastracture.Data
 {
     public class ProductRepository(ApplicationDbContext _context) : IProductRepository
     {
-        public async Task<List<ProductSearchDto>> GetProductsBySearch(string searchQuery)
+        public async Task<Result<Product>> GetProductById(int productId)
+        {
+            try
+            {
+                var product = await _context.Products
+                    .Include(x => x.Ingredients)
+                    .Include(x => x.ProductVariants)
+                    .FirstOrDefaultAsync(x => x.ProductId == productId);
+
+                if (product is null) return Result<Product>.Failure("Product wasn`t found");
+
+                return Result<Product>.Success(product);
+            }
+            catch (Exception ex)
+            {
+                return Result<Product>.Failure(ex.Message);
+            }
+        }
+
+        public async Task<List<ProductBasicDto>> GetProductsBySearch(string searchQuery)
         {
             if (String.IsNullOrWhiteSpace(searchQuery))
             {
                 return await _context.Products
-                .Select(x => new ProductSearchDto(x.ProductId, x.Name, x.ImageUrl))
+                .Select(x => new ProductBasicDto(x.ProductId, x.Name, x.ImageUrl))
                 .Take(5)
                 .ToListAsync();
             }
             return await _context.Products
                 .Where(x => x.Name.ToLower().Contains(searchQuery.ToLower()))
-                .Select(x => new ProductSearchDto(x.ProductId, x.Name, x.ImageUrl))
+                .Select(x => new ProductBasicDto(x.ProductId, x.Name, x.ImageUrl))
                 .ToListAsync();
         }
     }

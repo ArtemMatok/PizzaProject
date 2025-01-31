@@ -10,7 +10,7 @@ export const useQueryFilter = (filters: Filters) => {
     const params = {
       ...filters.prices,
       pizzaTypes: Array.from(filters.pizzaTypes),
-      sizes: Array.from(filters.pizzaSizes),
+      pizzaSizes: Array.from(filters.pizzaSizes),
       ingredients: Array.from(filters.selectedIngredientsId),
     };
     const query = qs.stringify(params, { arrayFormat: "comma" });

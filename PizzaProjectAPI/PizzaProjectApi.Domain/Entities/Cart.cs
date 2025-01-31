@@ -10,7 +10,7 @@ namespace PizzaProjectApi.Domain.Entities
     public class Cart
     {
         public int CartId { get; set; }
-        string Token { get; set; }
+        public string Token { get; set; } = Guid.NewGuid().ToString();
         public decimal TotalAmount { get; set; }
         //Relation
         [ForeignKey("User")]

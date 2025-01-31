@@ -19,3 +19,6 @@ D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Infrastracture\bin\Deb
 D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Infrastracture\bin\Debug\net8.0\Response.dll
 D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Infrastracture\bin\Debug\net8.0\PizzaProjectApi.Application.pdb
 D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Infrastracture\bin\Debug\net8.0\Response.pdb
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Infrastracture\obj\Debug\net8.0\PizzaProjectApi.Infrastracture.sourcelink.json
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Infrastracture\bin\Debug\net8.0\Redis.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Infrastracture\bin\Debug\net8.0\Redis.pdb

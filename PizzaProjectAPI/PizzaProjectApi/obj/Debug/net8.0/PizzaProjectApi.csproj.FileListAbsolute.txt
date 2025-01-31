@@ -162,3 +162,10 @@ D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi\bin\Debug\net8.0\Respo
 D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi\bin\Debug\net8.0\PizzaProjectApi.Application.pdb
 D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi\bin\Debug\net8.0\Response.pdb
 D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi\bin\Debug\net8.0\AutoMapper.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi\obj\Debug\net8.0\PizzaProjectApi.sourcelink.json
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi\bin\Debug\net8.0\Redis.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi\bin\Debug\net8.0\Redis.pdb
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi\bin\Debug\net8.0\Newtonsoft.Json.dll

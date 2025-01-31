@@ -19,8 +19,15 @@ namespace PizzaProjectApi.Infrastracture.Data
         public DbSet<Product> Products { get; set; }
         public DbSet<Cart> Carts { get; set; }
         public DbSet<CartItem> CartItems { get; set; }
-        public DbSet<Category> Category { get; set; }
+        public DbSet<Category> Categories { get; set; }
         public DbSet<Ingredient> Ingredients { get; set; }
         public DbSet<ProductVariant> ProductVariants { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            builder.Entity<Cart>()
+                .HasIndex(x => x.Token);
+                
+        }
     }
 }

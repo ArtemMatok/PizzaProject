@@ -1,5 +1,7 @@
 ﻿using AutoMapper;
 using PizzaProjectApi.Application.Products.DTOs;
+using PizzaProjectApi.Domain.Entities;
+using Redis;
 using Response;
 using System;
 using System.Collections.Generic;
@@ -11,17 +13,41 @@ namespace PizzaProjectApi.Application.Products
 {
     public interface IProductService
     {
-        Task<Result<List<ProductSearchDto>>> GetProductsBySearch(string searchQuery);
+        Task<Result<List<ProductBasicDto>>> GetProductsBySearch(string searchQuery);
+        Task<Result<ProductGetDto>> GetProductById(int productId);
     }
     public class ProductService(
-        IProductRepository _productRepository
+        IProductRepository _productRepository,
+        IRedisCacheService _cache,
+        IMapper _mapper
     ) : IProductService
     {
-        public async Task<Result<List<ProductSearchDto>>> GetProductsBySearch(string searchQuery)
+        public async Task<Result<ProductGetDto>> GetProductById(int productId)
+        {
+            var cacheKey = $"Product_{productId}";
+            var cacheProduct = await _cache.GetAsync<ProductGetDto>(cacheKey);
+
+            if (cacheProduct != null)
+            {
+                return Result<ProductGetDto>.Success(cacheProduct);
+            }
+
+            var product = await _productRepository.GetProductById(productId);
+            if (!product.IsSuccess) return Result<ProductGetDto>.Failure(product.ErrorMessage);
+
+            var productDtoMapped = _mapper.Map<ProductGetDto>(product.Value);
+
+
+            await _cache.SetAsync(cacheKey, productDtoMapped, TimeSpan.FromHours(1));
+
+            return Result<ProductGetDto>.Success(productDtoMapped);
+        }
+
+        public async Task<Result<List<ProductBasicDto>>> GetProductsBySearch(string searchQuery)
         {
             var products = await _productRepository.GetProductsBySearch(searchQuery);
             
-            return Result<List<ProductSearchDto>>.Success(products);
+            return Result<List<ProductBasicDto>>.Success(products);
         }
     }
 }

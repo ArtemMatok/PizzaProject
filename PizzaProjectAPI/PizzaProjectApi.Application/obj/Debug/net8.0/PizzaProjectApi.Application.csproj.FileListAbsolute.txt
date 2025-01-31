@@ -15,3 +15,6 @@ D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Application\bin\Debug\
 D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Application\bin\Debug\net8.0\Response.pdb
 D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Application\obj\Debug\net8.0\PizzaProjectApi.Application.csproj.AssemblyReference.cache
 D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Application\obj\Debug\net8.0\PizzaPro.BBED2AE7.Up2Date
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Application\obj\Debug\net8.0\PizzaProjectApi.Application.sourcelink.json
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Application\bin\Debug\net8.0\Redis.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\PizzaProjectApi.Application\bin\Debug\net8.0\Redis.pdb

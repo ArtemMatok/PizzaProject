@@ -1,5 +1,35 @@
 [
   {
+    "ContainingType": "PizzaProjectApi.Controllers.CartsController",
+    "Method": "CreateCartForAnonymousUser",
+    "RelativePath": "api/carts/create-cart-anonymous-user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PizzaProjectApi.Controllers.CategoriesController",
+    "Method": "GetCategories",
+    "RelativePath": "api/categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PizzaProjectApi.Controllers.CategoriesController",
+    "Method": "GetCategoriesWithProducts",
+    "RelativePath": "api/categories/categories-with-products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "PizzaProjectApi.Controllers.IngredientsController",
     "Method": "GetIngredientsAsync",
     "RelativePath": "api/ingredients",
@@ -31,6 +61,22 @@
         "Name": "searchQuery",
         "Type": "System.String",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PizzaProjectApi.Controllers.ProductsController",
+    "Method": "GetProductById",
+    "RelativePath": "api/Products/{productId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

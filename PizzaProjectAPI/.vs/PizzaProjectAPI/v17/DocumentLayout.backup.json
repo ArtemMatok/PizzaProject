@@ -3,92 +3,28 @@
   "WorkspaceRootPath": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FE58117-BA74-4A24-8680-7D3B70840D35}|PizzaProjectApi\\PizzaProjectApi.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1FE58117-BA74-4A24-8680-7D3B70840D35}|PizzaProjectApi\\PizzaProjectApi.csproj|solutionrelative:pizzaprojectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1FE58117-BA74-4A24-8680-7D3B70840D35}|PizzaProjectApi\\PizzaProjectApi.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE58117-BA74-4A24-8680-7D3B70840D35}|PizzaProjectApi\\PizzaProjectApi.csproj|solutionrelative:pizzaprojectapi\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FE58117-BA74-4A24-8680-7D3B70840D35}|PizzaProjectApi\\PizzaProjectApi.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi\\controllers\\ingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FE58117-BA74-4A24-8680-7D3B70840D35}|PizzaProjectApi\\PizzaProjectApi.csproj|solutionrelative:pizzaprojectapi\\controllers\\ingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\ingredients\\iingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\ingredients\\iingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\ingredients\\dtos\\ingredientbasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\ingredients\\dtos\\ingredientbasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\ingredients\\iingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\ingredients\\iingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.infrastracture\\data\\ingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|solutionrelative:pizzaprojectapi.infrastracture\\data\\ingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\ingredients\\dtos\\ingredientgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\ingredients\\dtos\\ingredientgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\cart\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\cart\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FE58117-BA74-4A24-8680-7D3B70840D35}|PizzaProjectApi\\PizzaProjectApi.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FE58117-BA74-4A24-8680-7D3B70840D35}|PizzaProjectApi\\PizzaProjectApi.csproj|solutionrelative:pizzaprojectapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.infrastracture\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|solutionrelative:pizzaprojectapi.infrastracture\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\products\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\products\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\products\\dtos\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\products\\dtos\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\products\\dtos\\productsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\products\\dtos\\productsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\products\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\products\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F20E0C49-C3A3-48D5-B680-38DBBFC35C04}|Response\\Response.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\response\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F20E0C49-C3A3-48D5-B680-38DBBFC35C04}|Response\\Response.csproj|solutionrelative:response\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F20E0C49-C3A3-48D5-B680-38DBBFC35C04}|Response\\Response.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F20E0C49-C3A3-48D5-B680-38DBBFC35C04}|Response\\Response.csproj|solutionrelative:response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1FE58117-BA74-4A24-8680-7D3B70840D35}|PizzaProjectApi\\PizzaProjectApi.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FE58117-BA74-4A24-8680-7D3B70840D35}|PizzaProjectApi\\PizzaProjectApi.csproj|solutionrelative:pizzaprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FE58117-BA74-4A24-8680-7D3B70840D35}|PizzaProjectApi\\PizzaProjectApi.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1FE58117-BA74-4A24-8680-7D3B70840D35}|PizzaProjectApi\\PizzaProjectApi.csproj|solutionrelative:pizzaprojectapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\cart\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\cart\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\shared\\sharedmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\shared\\sharedmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.infrastracture\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|solutionrelative:pizzaprojectapi.infrastracture\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\category\\dtos\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\category\\dtos\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03AF74E6-5DA8-4EB7-A77F-0F258B33CDC1}|PizzaProjectApi.Domain\\PizzaProjectApi.Domain.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.domain\\entities\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03AF74E6-5DA8-4EB7-A77F-0F258B33CDC1}|PizzaProjectApi.Domain\\PizzaProjectApi.Domain.csproj|solutionrelative:pizzaprojectapi.domain\\entities\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Infrastracture\\Migrations\\20250120213224_AddMainTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PizzaProjectApi.Infrastracture\\Migrations\\20250120213224_AddMainTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.infrastracture\\data\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|solutionrelative:pizzaprojectapi.infrastracture\\data\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03AF74E6-5DA8-4EB7-A77F-0F258B33CDC1}|PizzaProjectApi.Domain\\PizzaProjectApi.Domain.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,16 +35,115 @@
       "RelativeMoniker": "D:0:0:{03AF74E6-5DA8-4EB7-A77F-0F258B33CDC1}|PizzaProjectApi.Domain\\PizzaProjectApi.Domain.csproj|solutionrelative:pizzaprojectapi.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9909004D-55F3-472C-A263-552717952C80}|Order.Domain\\Order.Domain.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\order.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9909004D-55F3-472C-A263-552717952C80}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{03AF74E6-5DA8-4EB7-A77F-0F258B33CDC1}|PizzaProjectApi.Domain\\PizzaProjectApi.Domain.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.domain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03AF74E6-5DA8-4EB7-A77F-0F258B33CDC1}|PizzaProjectApi.Domain\\PizzaProjectApi.Domain.csproj|solutionrelative:pizzaprojectapi.domain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{03AF74E6-5DA8-4EB7-A77F-0F258B33CDC1}|PizzaProjectApi.Domain\\PizzaProjectApi.Domain.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.domain\\entities\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03AF74E6-5DA8-4EB7-A77F-0F258B33CDC1}|PizzaProjectApi.Domain\\PizzaProjectApi.Domain.csproj|solutionrelative:pizzaprojectapi.domain\\entities\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9909004D-55F3-472C-A263-552717952C80}|Order.Domain\\Order.Domain.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\order.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9909004D-55F3-472C-A263-552717952C80}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.infrastracture\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|solutionrelative:pizzaprojectapi.infrastracture\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\category\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\category\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\shared\\sharedmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\shared\\sharedmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\products\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\products\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\products\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\products\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.infrastracture\\data\\ingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|solutionrelative:pizzaprojectapi.infrastracture\\data\\ingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.infrastracture\\data\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|solutionrelative:pizzaprojectapi.infrastracture\\data\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\category\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\category\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C03B5291-70DF-49BC-B0E3-596F616E85A4}|Redis\\Redis.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\redis\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C03B5291-70DF-49BC-B0E3-596F616E85A4}|Redis\\Redis.csproj|solutionrelative:redis\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\category\\dtos\\categorywithproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\category\\dtos\\categorywithproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\products\\dtos\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\products\\dtos\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\products\\dtos\\productsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\products\\dtos\\productsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE58117-BA74-4A24-8680-7D3B70840D35}|PizzaProjectApi\\PizzaProjectApi.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE58117-BA74-4A24-8680-7D3B70840D35}|PizzaProjectApi\\PizzaProjectApi.csproj|solutionrelative:pizzaprojectapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\category\\dtos\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\category\\dtos\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE58117-BA74-4A24-8680-7D3B70840D35}|PizzaProjectApi\\PizzaProjectApi.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FE58117-BA74-4A24-8680-7D3B70840D35}|PizzaProjectApi\\PizzaProjectApi.csproj|solutionrelative:pizzaprojectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.infrastracture\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|solutionrelative:pizzaprojectapi.infrastracture\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE58117-BA74-4A24-8680-7D3B70840D35}|PizzaProjectApi\\PizzaProjectApi.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi\\controllers\\ingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE58117-BA74-4A24-8680-7D3B70840D35}|PizzaProjectApi\\PizzaProjectApi.csproj|solutionrelative:pizzaprojectapi\\controllers\\ingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\ingredients\\iingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\ingredients\\iingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\Rar$DIa26332.18060\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\ingredients\\iingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\ingredients\\iingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.application\\ingredients\\dtos\\ingredientbasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2561818C-D18B-4E9A-869D-F3C797BD7678}|PizzaProjectApi.Application\\PizzaProjectApi.Application.csproj|solutionrelative:pizzaprojectapi.application\\ingredients\\dtos\\ingredientbasicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20E0C49-C3A3-48D5-B680-38DBBFC35C04}|Response\\Response.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\response\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20E0C49-C3A3-48D5-B680-38DBBFC35C04}|Response\\Response.csproj|solutionrelative:response\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20E0C49-C3A3-48D5-B680-38DBBFC35C04}|Response\\Response.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20E0C49-C3A3-48D5-B680-38DBBFC35C04}|Response\\Response.csproj|solutionrelative:response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.infrastracture\\migrations\\20250116110016_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|solutionrelative:pizzaprojectapi.infrastracture\\migrations\\20250116110016_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|d:\\pizzaproj\\pizzaproject\\pizzaprojectapi\\pizzaprojectapi.infrastracture\\migrations\\20250120213224_addmaintables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12003EF5-AD09-4B94-A1EA-6BBA9358B2C1}|PizzaProjectApi.Infrastracture\\PizzaProjectApi.Infrastracture.csproj|solutionrelative:pizzaprojectapi.infrastracture\\migrations\\20250120213224_addmaintables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,7 +153,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 303,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -154,46 +189,379 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IIngredientService.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Ingredients\\IIngredientService.cs",
-              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Ingredients\\IIngredientService.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Ingredients\\IIngredientService.cs",
-              "RelativeToolTip": "PizzaProjectApi.Application\\Ingredients\\IIngredientService.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi\\Controllers\\CartsController.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "PizzaProjectApi\\Controllers\\CartsController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T15:01:20.065Z",
+              "WhenOpened": "2025-01-31T19:15:35.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Cart\\ICartService.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Cart\\ICartService.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Cart\\ICartService.cs",
+              "RelativeToolTip": "PizzaProjectApi.Application\\Cart\\ICartService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T18:53:16.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Infrastracture\\Data\\CartRepository.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Infrastracture\\Data\\CartRepository.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Infrastracture\\Data\\CartRepository.cs",
+              "RelativeToolTip": "PizzaProjectApi.Infrastracture\\Data\\CartRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:00:12.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IngredientsController.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\Controllers\\IngredientsController.cs",
-              "RelativeDocumentMoniker": "PizzaProjectApi\\Controllers\\IngredientsController.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\Controllers\\IngredientsController.cs",
-              "RelativeToolTip": "PizzaProjectApi\\Controllers\\IngredientsController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBEAAAAjAAAAAAAAAA==",
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Cart\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Cart\\ICartRepository.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Cart\\ICartRepository.cs",
+              "RelativeToolTip": "PizzaProjectApi.Application\\Cart\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:52:45.239Z",
+              "WhenOpened": "2025-01-31T14:53:21.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\appsettings.json",
-              "RelativeDocumentMoniker": "PizzaProjectApi\\appsettings.json",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\appsettings.json",
-              "RelativeToolTip": "PizzaProjectApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-16T10:58:13.046Z",
+              "DocumentIndex": 11,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Infrastracture\\Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Infrastracture\\Data\\ProductRepository.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Infrastracture\\Data\\ProductRepository.cs",
+              "RelativeToolTip": "PizzaProjectApi.Infrastracture\\Data\\ProductRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:50:15.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Domain\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Domain\\Entities\\CartItem.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Domain\\Entities\\CartItem.cs",
+              "RelativeToolTip": "PizzaProjectApi.Domain\\Entities\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:47:03.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Domain\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Domain\\Entities\\Cart.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Domain\\Entities\\Cart.cs",
+              "RelativeToolTip": "PizzaProjectApi.Domain\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:00:19.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SharedMapper.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Shared\\SharedMapper.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Shared\\SharedMapper.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Shared\\SharedMapper.cs",
+              "RelativeToolTip": "PizzaProjectApi.Application\\Shared\\SharedMapper.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:18:42.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi\\Program.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\Program.cs",
+              "RelativeToolTip": "PizzaProjectApi\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:58:29.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "PizzaProjectApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:47:59.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Products\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Products\\IProductRepository.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Products\\IProductRepository.cs",
+              "RelativeToolTip": "PizzaProjectApi.Application\\Products\\IProductRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:58:49.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Category\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Category\\ICategoryService.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Category\\ICategoryService.cs",
+              "RelativeToolTip": "PizzaProjectApi.Application\\Category\\ICategoryService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:36:32.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "PizzaProjectApi.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:44:40.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\Order.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Entities\\Order.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\Order.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Order.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:47:08.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Domain\\Entities\\Ingredient.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Domain\\Entities\\Ingredient.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Domain\\Entities\\Ingredient.cs",
+              "RelativeToolTip": "PizzaProjectApi.Domain\\Entities\\Ingredient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:51:09.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Products\\IProductService.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Products\\IProductService.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Products\\IProductService.cs",
+              "RelativeToolTip": "PizzaProjectApi.Application\\Products\\IProductService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAWwCUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:50:03.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IngredientRepository.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Infrastracture\\Data\\IngredientRepository.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Infrastracture\\Data\\IngredientRepository.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Infrastracture\\Data\\IngredientRepository.cs",
+              "RelativeToolTip": "PizzaProjectApi.Infrastracture\\Data\\IngredientRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:09:42.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Category\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Category\\ICategoryRepository.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Category\\ICategoryRepository.cs",
+              "RelativeToolTip": "PizzaProjectApi.Application\\Category\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:02:48.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Infrastracture\\Data\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Infrastracture\\Data\\CategoryRepository.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Infrastracture\\Data\\CategoryRepository.cs",
+              "RelativeToolTip": "PizzaProjectApi.Infrastracture\\Data\\CategoryRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:06:29.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RedisCacheService.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\Redis\\RedisCacheService.cs",
+              "RelativeDocumentMoniker": "Redis\\RedisCacheService.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\Redis\\RedisCacheService.cs",
+              "RelativeToolTip": "Redis\\RedisCacheService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T15:58:08.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryWithProductsDto.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Category\\DTOs\\CategoryWithProductsDto.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Category\\DTOs\\CategoryWithProductsDto.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Category\\DTOs\\CategoryWithProductsDto.cs",
+              "RelativeToolTip": "PizzaProjectApi.Application\\Category\\DTOs\\CategoryWithProductsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:00:44.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductGetDto.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Products\\DTOs\\ProductGetDto.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Products\\DTOs\\ProductGetDto.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Products\\DTOs\\ProductGetDto.cs",
+              "RelativeToolTip": "PizzaProjectApi.Application\\Products\\DTOs\\ProductGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:07:38.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductSearchDto.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Products\\DTOs\\ProductSearchDto.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Products\\DTOs\\ProductSearchDto.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Products\\DTOs\\ProductSearchDto.cs",
+              "RelativeToolTip": "PizzaProjectApi.Application\\Products\\DTOs\\ProductSearchDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:46:28.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "PizzaProjectApi\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:38:39.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryGetDto.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Category\\DTOs\\CategoryGetDto.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Category\\DTOs\\CategoryGetDto.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Category\\DTOs\\CategoryGetDto.cs",
+              "RelativeToolTip": "PizzaProjectApi.Application\\Category\\DTOs\\CategoryGetDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:52:07.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\appsettings.json",
+              "RelativeDocumentMoniker": "PizzaProjectApi\\appsettings.json",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\appsettings.json",
+              "RelativeToolTip": "PizzaProjectApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T10:58:13.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Infrastracture\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Infrastracture\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Infrastracture\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PizzaProjectApi.Infrastracture\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:55:02.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IngredientsController.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\Controllers\\IngredientsController.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi\\Controllers\\IngredientsController.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\Controllers\\IngredientsController.cs",
+              "RelativeToolTip": "PizzaProjectApi\\Controllers\\IngredientsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:52:45.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IIngredientRepository.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Ingredients\\IIngredientRepository.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Ingredients\\IIngredientRepository.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Ingredients\\IIngredientRepository.cs",
+              "RelativeToolTip": "PizzaProjectApi.Application\\Ingredients\\IIngredientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:07:40.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Temp\\Rar$DIa26332.18060\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Temp\\Rar$DIa26332.18060\\HomeController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:46:12.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "IngredientBasicDto.cs",
               "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Ingredients\\DTOs\\IngredientBasicDto.cs",
               "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Ingredients\\DTOs\\IngredientBasicDto.cs",
@@ -201,155 +569,23 @@
               "RelativeToolTip": "PizzaProjectApi.Application\\Ingredients\\DTOs\\IngredientBasicDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T08:45:13.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T08:45:13.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IIngredientRepository.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Ingredients\\IIngredientRepository.cs",
-              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Ingredients\\IIngredientRepository.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Ingredients\\IIngredientRepository.cs",
-              "RelativeToolTip": "PizzaProjectApi.Application\\Ingredients\\IIngredientRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA4AAABCAAAAAAAAAA==",
+              "DocumentIndex": 30,
+              "Title": "IIngredientService.cs",
+              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Ingredients\\IIngredientService.cs",
+              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Ingredients\\IIngredientService.cs",
+              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Ingredients\\IIngredientService.cs",
+              "RelativeToolTip": "PizzaProjectApi.Application\\Ingredients\\IIngredientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:07:40.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T15:01:20.065Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IngredientGetDto.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Ingredients\\DTOs\\IngredientGetDto.cs",
-              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Ingredients\\DTOs\\IngredientGetDto.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Ingredients\\DTOs\\IngredientGetDto.cs",
-              "RelativeToolTip": "PizzaProjectApi.Application\\Ingredients\\DTOs\\IngredientGetDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T15:01:18.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IngredientRepository.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Infrastracture\\Data\\IngredientRepository.cs",
-              "RelativeDocumentMoniker": "PizzaProjectApi.Infrastracture\\Data\\IngredientRepository.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Infrastracture\\Data\\IngredientRepository.cs",
-              "RelativeToolTip": "PizzaProjectApi.Infrastracture\\Data\\IngredientRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:09:42.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Infrastracture\\Data\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "PizzaProjectApi.Infrastracture\\Data\\ProductRepository.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Infrastracture\\Data\\ProductRepository.cs",
-              "RelativeToolTip": "PizzaProjectApi.Infrastracture\\Data\\ProductRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T14:50:15.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\Program.cs",
-              "RelativeDocumentMoniker": "PizzaProjectApi\\Program.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\Program.cs",
-              "RelativeToolTip": "PizzaProjectApi\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:58:29.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "PizzaProjectApi\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "PizzaProjectApi\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T16:47:59.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Products\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Products\\IProductRepository.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Products\\IProductRepository.cs",
-              "RelativeToolTip": "PizzaProjectApi.Application\\Products\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:58:49.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Products\\IProductService.cs",
-              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Products\\IProductService.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Products\\IProductService.cs",
-              "RelativeToolTip": "PizzaProjectApi.Application\\Products\\IProductService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T15:50:03.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductGetDto.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Products\\DTOs\\ProductGetDto.cs",
-              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Products\\DTOs\\ProductGetDto.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Products\\DTOs\\ProductGetDto.cs",
-              "RelativeToolTip": "PizzaProjectApi.Application\\Products\\DTOs\\ProductGetDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T15:24:31.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductSearchDto.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Products\\DTOs\\ProductSearchDto.cs",
-              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Products\\DTOs\\ProductSearchDto.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Products\\DTOs\\ProductSearchDto.cs",
-              "RelativeToolTip": "PizzaProjectApi.Application\\Products\\DTOs\\ProductSearchDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T09:46:28.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "PizzaProjectApi\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "PizzaProjectApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-22T10:02:17.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 32,
               "Title": "Result.cs",
               "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\Response\\Result.cs",
               "RelativeDocumentMoniker": "Response\\Result.cs",
@@ -357,77 +593,23 @@
               "RelativeToolTip": "Response\\Result.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:05:12.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T12:05:12.57Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 33,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\Response\\ApiResponse.cs",
               "RelativeDocumentMoniker": "Response\\ApiResponse.cs",
               "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\Response\\ApiResponse.cs",
               "RelativeToolTip": "Response\\ApiResponse.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:04:50.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T12:04:50.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SharedMapper.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Shared\\SharedMapper.cs",
-              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Shared\\SharedMapper.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Shared\\SharedMapper.cs",
-              "RelativeToolTip": "PizzaProjectApi.Application\\Shared\\SharedMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T15:18:42.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CategoryGetDto.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Category\\DTOs\\CategoryGetDto.cs",
-              "RelativeDocumentMoniker": "PizzaProjectApi.Application\\Category\\DTOs\\CategoryGetDto.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Application\\Category\\DTOs\\CategoryGetDto.cs",
-              "RelativeToolTip": "PizzaProjectApi.Application\\Category\\DTOs\\CategoryGetDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T14:52:07.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Infrastracture\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "PizzaProjectApi.Infrastracture\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Infrastracture\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "PizzaProjectApi.Infrastracture\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:55:02.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Ingredient.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Domain\\Entities\\Ingredient.cs",
-              "RelativeDocumentMoniker": "PizzaProjectApi.Domain\\Entities\\Ingredient.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Domain\\Entities\\Ingredient.cs",
-              "RelativeToolTip": "PizzaProjectApi.Domain\\Entities\\Ingredient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T11:51:09.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 35,
               "Title": "20250120213224_AddMainTables.cs",
               "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Infrastracture\\Migrations\\20250120213224_AddMainTables.cs",
               "RelativeDocumentMoniker": "PizzaProjectApi.Infrastracture\\Migrations\\20250120213224_AddMainTables.cs",
@@ -435,64 +617,11 @@
               "RelativeToolTip": "PizzaProjectApi.Infrastracture\\Migrations\\20250120213224_AddMainTables.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T21:32:24.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T21:32:24.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Domain\\Entities\\Cart.cs",
-              "RelativeDocumentMoniker": "PizzaProjectApi.Domain\\Entities\\Cart.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Domain\\Entities\\Cart.cs",
-              "RelativeToolTip": "PizzaProjectApi.Domain\\Entities\\Cart.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBEAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T16:00:19.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\Order.Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "Order.Domain\\Entities\\Order.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\Order.Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "Order.Domain\\Entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T18:47:08.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Domain\\Entities\\AppUser.cs",
-              "RelativeDocumentMoniker": "PizzaProjectApi.Domain\\Entities\\AppUser.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Domain\\Entities\\AppUser.cs",
-              "RelativeToolTip": "PizzaProjectApi.Domain\\Entities\\AppUser.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA0AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T17:44:40.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Domain\\Entities\\CartItem.cs",
-              "RelativeDocumentMoniker": "PizzaProjectApi.Domain\\Entities\\CartItem.cs",
-              "ToolTip": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Domain\\Entities\\CartItem.cs",
-              "RelativeToolTip": "PizzaProjectApi.Domain\\Entities\\CartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T17:47:03.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "20250116110016_InitialCreate.cs",
               "DocumentMoniker": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Infrastracture\\Migrations\\20250116110016_InitialCreate.cs",
               "RelativeDocumentMoniker": "PizzaProjectApi.Infrastracture\\Migrations\\20250116110016_InitialCreate.cs",
@@ -500,8 +629,7 @@
               "RelativeToolTip": "PizzaProjectApi.Infrastracture\\Migrations\\20250116110016_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T11:00:16.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T11:00:16.779Z"
             }
           ]
         },

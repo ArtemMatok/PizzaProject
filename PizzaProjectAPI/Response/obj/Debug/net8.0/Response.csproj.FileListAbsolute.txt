@@ -10,3 +10,4 @@ D:\PizzaProj\PizzaProject\PizzaProjectAPI\Response\obj\Debug\net8.0\Response.dll
 D:\PizzaProj\PizzaProject\PizzaProjectAPI\Response\obj\Debug\net8.0\refint\Response.dll
 D:\PizzaProj\PizzaProject\PizzaProjectAPI\Response\obj\Debug\net8.0\Response.pdb
 D:\PizzaProj\PizzaProject\PizzaProjectAPI\Response\obj\Debug\net8.0\ref\Response.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Response\obj\Debug\net8.0\Response.sourcelink.json

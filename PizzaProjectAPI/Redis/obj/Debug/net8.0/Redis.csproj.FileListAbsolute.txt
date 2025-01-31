@@ -1,0 +1,13 @@
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Redis\bin\Debug\net8.0\Redis.deps.json
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Redis\bin\Debug\net8.0\Redis.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Redis\bin\Debug\net8.0\Redis.pdb
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Redis\obj\Debug\net8.0\Redis.csproj.AssemblyReference.cache
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Redis\obj\Debug\net8.0\Redis.GeneratedMSBuildEditorConfig.editorconfig
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Redis\obj\Debug\net8.0\Redis.AssemblyInfoInputs.cache
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Redis\obj\Debug\net8.0\Redis.AssemblyInfo.cs
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Redis\obj\Debug\net8.0\Redis.csproj.CoreCompileInputs.cache
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Redis\obj\Debug\net8.0\Redis.sourcelink.json
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Redis\obj\Debug\net8.0\Redis.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Redis\obj\Debug\net8.0\refint\Redis.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Redis\obj\Debug\net8.0\Redis.pdb
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Redis\obj\Debug\net8.0\ref\Redis.dll

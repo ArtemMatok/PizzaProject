@@ -9,3 +9,4 @@ D:\PizzaProj\PizzaProject\PizzaProjectAPI\Order.Domain\obj\Debug\net8.0\Order.Do
 D:\PizzaProj\PizzaProject\PizzaProjectAPI\Order.Domain\obj\Debug\net8.0\refint\Order.Domain.dll
 D:\PizzaProj\PizzaProject\PizzaProjectAPI\Order.Domain\obj\Debug\net8.0\Order.Domain.pdb
 D:\PizzaProj\PizzaProject\PizzaProjectAPI\Order.Domain\obj\Debug\net8.0\ref\Order.Domain.dll
+D:\PizzaProj\PizzaProject\PizzaProjectAPI\Order.Domain\obj\Debug\net8.0\Order.Domain.sourcelink.json

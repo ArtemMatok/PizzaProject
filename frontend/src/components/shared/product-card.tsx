@@ -8,7 +8,9 @@ interface Props {
   name: string;
   imageUrl: string;
   className?: string;
+  ingredients:string[];
   price: number;
+  onClick?: () => void;
 }
 
 export const ProductCard: React.FC<Props> = ({
@@ -16,17 +18,19 @@ export const ProductCard: React.FC<Props> = ({
   name,
   imageUrl,
   price,
+  ingredients,
+  onClick,
   className,
 }) => {
   return (
-    <div className={className}>
+    <div className={className} onClick={onClick}>
       <div className="flex justify-center p-6 bg-secondary rounded-lg h-[260px]">
         <img src={imageUrl} alt={name} className="w-[215px] h-[215px]" />
       </div>
 
       <Title text={name} size="sm" className="mb-1 mt-3 font-bold" />
 
-      <p className="text-sm text-gray-400">ingredirens...</p>
+      <p className="text-sm text-gray-400">{ingredients.join(", ")}</p>
 
       <div className="flex justify-between items-center mt-4">
         <span className="text-[20px]">

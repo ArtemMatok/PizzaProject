@@ -3,12 +3,14 @@ import { ProductCard, Title } from ".";
 import { cn } from "@/lib/utils";
 import { useIntersection } from "react-use";
 import { useCategoryStore } from "@/store/category";
+import {  ProductGetDto, ProductWithIngredientsWithPriceDto } from "@/models/productModel";
 
 interface Props {
   title: string;
-  items: any[];
+  items: ProductGetDto[];
   listClassName?: string;
   categoryId: number;
+  handleProductClick:(product: ProductGetDto) => void;
   className?: string;
 }
 
@@ -17,6 +19,7 @@ export const ProductsGroupList: React.FC<Props> = ({
   items,
   listClassName,
   categoryId,
+  handleProductClick,
   className,
 }) => {
     const setActiveCategoryId = useCategoryStore((state) => state.setActiveId);
@@ -42,7 +45,9 @@ export const ProductsGroupList: React.FC<Props> = ({
             productId={product.productId}
             name={product.name}
             imageUrl={product.imageUrl}
-            price={product.items[0].price}
+            price={product.productVariants[0].price}
+            ingredients={product.ingredients.map((ingredient) => ingredient.name)}
+            onClick={() => handleProductClick(product)}
           />
         ))}
       </div>

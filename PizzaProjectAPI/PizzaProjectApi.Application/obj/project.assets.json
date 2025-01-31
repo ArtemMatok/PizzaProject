@@ -1469,6 +1469,20 @@
           "bin/placeholder/PizzaProjectApi.Domain.dll": {}
         }
       },
+      "Redis/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Abstractions": "8.0.0",
+          "Newtonsoft.Json": "9.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Redis.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Redis.dll": {}
+        }
+      },
       "Response/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -4669,6 +4683,11 @@
       "path": "../PizzaProjectApi.Domain/PizzaProjectApi.Domain.csproj",
       "msbuildProject": "../PizzaProjectApi.Domain/PizzaProjectApi.Domain.csproj"
     },
+    "Redis/1.0.0": {
+      "type": "project",
+      "path": "../Redis/Redis.csproj",
+      "msbuildProject": "../Redis/Redis.csproj"
+    },
     "Response/1.0.0": {
       "type": "project",
       "path": "../Response/Response.csproj",
@@ -4679,6 +4698,7 @@
     "net8.0": [
       "AutoMapper >= 13.0.1",
       "PizzaProjectApi.Domain >= 1.0.0",
+      "Redis >= 1.0.0",
       "Response >= 1.0.0"
     ]
   },
@@ -4716,6 +4736,9 @@
           "projectReferences": {
             "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Domain\\PizzaProjectApi.Domain.csproj": {
               "projectPath": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\PizzaProjectApi.Domain\\PizzaProjectApi.Domain.csproj"
+            },
+            "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\Redis\\Redis.csproj": {
+              "projectPath": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\Redis\\Redis.csproj"
             },
             "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\Response\\Response.csproj": {
               "projectPath": "D:\\PizzaProj\\PizzaProject\\PizzaProjectAPI\\Response\\Response.csproj"

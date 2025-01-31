@@ -10,6 +10,7 @@
         "dependencies": {
           "AutoMapper": "13.0.1",
           "PizzaProjectApi.Domain": "1.0.0",
+          "Redis": "1.0.0",
           "Response": "1.0.0"
         },
         "runtime": {
@@ -897,6 +898,18 @@
           }
         }
       },
+      "Redis/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Abstractions": "8.0.0",
+          "Newtonsoft.Json": "9.0.1"
+        },
+        "runtime": {
+          "Redis.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Response/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.Abstractions": "2.3.0",
@@ -1506,6 +1519,11 @@
       "hashPath": "system.xml.xdocument.4.0.11.nupkg.sha512"
     },
     "PizzaProjectApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Redis/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
