@@ -1,6 +1,6 @@
 ﻿using PizzaProjectApi.Application.Category.DTOs;
 using PizzaProjectApi.Application.Ingredients.DTOs;
-using PizzaProjectApi.Application.ProductVariant;
+using PizzaProjectApi.Application.ProductVariant.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;

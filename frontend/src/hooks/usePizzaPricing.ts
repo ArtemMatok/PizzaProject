@@ -25,9 +25,14 @@ export const usePizzaPricing = (
 
   const totalPrice = Math.round((pizzaPrice! + totalIngredientsPrice) * 100) / 100;
 
+  const selectedVariant = productVariants.find(
+    (variant) => variant.size === size && variant.pizzaType === type
+  );
+
   return {
     pizzaPrice,
     totalIngredientsPrice,
     totalPrice,
+    selectedVariant,
   };
 }; 

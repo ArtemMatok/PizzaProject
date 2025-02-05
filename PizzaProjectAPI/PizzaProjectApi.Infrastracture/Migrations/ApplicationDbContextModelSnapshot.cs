@@ -193,9 +193,6 @@ namespace PizzaProjectApi.Infrastracture.Migrations
                     b.Property<int>("AccessFailedCount")
                         .HasColumnType("int");
 
-                    b.Property<int>("CartId")
-                        .HasColumnType("int");
-
                     b.Property<string>("ConcurrencyStamp")
                         .IsConcurrencyToken()
                         .HasColumnType("nvarchar(max)");
@@ -233,6 +230,10 @@ namespace PizzaProjectApi.Infrastracture.Migrations
                     b.Property<string>("SecurityStamp")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("TokenCart")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<bool>("TwoFactorEnabled")
                         .HasColumnType("bit");
 
@@ -255,15 +256,8 @@ namespace PizzaProjectApi.Infrastracture.Migrations
 
             modelBuilder.Entity("PizzaProjectApi.Domain.Entities.Cart", b =>
                 {
-                    b.Property<int>("CartId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CartId"));
-
-                    b.Property<string>("Token")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<string>("TokenCart")
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<decimal>("TotalAmount")
                         .HasColumnType("decimal(18,2)");
@@ -271,7 +265,7 @@ namespace PizzaProjectApi.Infrastracture.Migrations
                     b.Property<string>("UserId")
                         .HasColumnType("nvarchar(450)");
 
-                    b.HasKey("CartId");
+                    b.HasKey("TokenCart");
 
                     b.HasIndex("UserId")
                         .IsUnique()
@@ -288,20 +282,21 @@ namespace PizzaProjectApi.Infrastracture.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CartItemId"));
 
-                    b.Property<int>("CartId")
-                        .HasColumnType("int");
-
                     b.Property<int>("ProductVariantId")
                         .HasColumnType("int");
 
                     b.Property<int>("Quantity")
                         .HasColumnType("int");
 
+                    b.Property<string>("TokenCart")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(450)");
+
                     b.HasKey("CartItemId");
 
-                    b.HasIndex("CartId");
-
                     b.HasIndex("ProductVariantId");
+
+                    b.HasIndex("TokenCart");
 
                     b.ToTable("CartItems");
                 });
@@ -492,15 +487,15 @@ namespace PizzaProjectApi.Infrastracture.Migrations
 
             modelBuilder.Entity("PizzaProjectApi.Domain.Entities.CartItem", b =>
                 {
-                    b.HasOne("PizzaProjectApi.Domain.Entities.Cart", "Cart")
-                        .WithMany("CartItems")
-                        .HasForeignKey("CartId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.HasOne("PizzaProjectApi.Domain.Entities.ProductVariant", "ProductVariant")
                         .WithMany("CartItems")
                         .HasForeignKey("ProductVariantId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("PizzaProjectApi.Domain.Entities.Cart", "Cart")
+                        .WithMany("CartItems")
+                        .HasForeignKey("TokenCart")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

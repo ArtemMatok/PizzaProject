@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PizzaProjectApi.Infrastracture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+896181ba0911cdeafc31baec2f67fb8160ef2668")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9611faf6d4e4e0226c01115df9d9091deaedf4c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PizzaProjectApi.Infrastracture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PizzaProjectApi.Infrastracture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

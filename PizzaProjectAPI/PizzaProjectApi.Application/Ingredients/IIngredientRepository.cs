@@ -13,5 +13,6 @@ namespace PizzaProjectApi.Application.Ingredients
     {
         Task<List<IngredientGetDto>> GetIngredientsAsync();
         Task<List<IngredientBasicDto>> GetIngredientsBasicAsync();
+        Task<List<IngredientEntity>> GetIngredientsByIds(List<int> ingredientsId);
     }
 }

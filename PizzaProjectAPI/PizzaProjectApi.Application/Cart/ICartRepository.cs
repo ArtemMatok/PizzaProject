@@ -1,16 +1,15 @@
 ﻿using Response;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using CartEntity = PizzaProjectApi.Domain.Entities.Cart;
+using CartItemEntity = PizzaProjectApi.Domain.Entities.CartItem;
+
 
 namespace PizzaProjectApi.Application.Cart
 {
     public interface ICartRepository
     {
         Task<Result<string>> CreateCartForAnonymousUser();
-        Task<Result<CartEntity>> GetCartByToken(string cartToken);
+        Task<Result<CartEntity>> GetCartFullByToken(string cartToken);
+        Task<bool> CartExist(string cartToken);
+        Task<Result<bool>> UpdateTotalAmountCart(CartEntity cart);
     }
 }

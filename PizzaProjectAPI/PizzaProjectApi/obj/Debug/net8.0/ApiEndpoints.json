@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "PizzaProjectApi.Controllers.CartItemsController",
+    "Method": "CreateCartItem",
+    "RelativePath": "api/CartItems",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartItemCreateDto",
+        "Type": "PizzaProjectApi.Application.CartItem.DTOs.CartItemCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PizzaProjectApi.Controllers.CartsController",
+    "Method": "GetCartByToken",
+    "RelativePath": "api/carts/cart-by-token/{cartToken}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartToken",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "PizzaProjectApi.Controllers.CartsController",
     "Method": "CreateCartForAnonymousUser",
     "RelativePath": "api/carts/create-cart-anonymous-user",

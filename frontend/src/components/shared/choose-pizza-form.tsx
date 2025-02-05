@@ -50,7 +50,7 @@ export const ChoosePizzaForm: React.FC<Props> = ({
     handleIngredientClick,
   } = useIngredients(ingredients);
 
-  const { totalPrice } = usePizzaPricing(
+  const { totalPrice, selectedVariant } = usePizzaPricing(
     productVariants,
     ingredients,
     size,
@@ -63,6 +63,7 @@ export const ChoosePizzaForm: React.FC<Props> = ({
   }, ingredients:${ingredients.map((ing) => ing.name).join(", ")}`;
 
   const handleClickAddCart = () => {
+    console.log("Selected variant ID:", selectedVariant?.productVariantId);
     onClickAddCart?.();
   };
 

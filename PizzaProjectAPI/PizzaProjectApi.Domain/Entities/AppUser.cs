@@ -10,7 +10,7 @@ namespace PizzaProjectApi.Domain.Entities
     public class AppUser : IdentityUser
     {
         //Relation
-        public int CartId { get; set; }
+        public string TokenCart { get; set; }
         public Cart Cart { get; set; } = new Cart();
     }
 }

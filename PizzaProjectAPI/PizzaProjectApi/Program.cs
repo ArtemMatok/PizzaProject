@@ -8,6 +8,15 @@ using Redis;
 using System.Text.Json.Serialization;
 using System.Text.Json;
 using PizzaProjectApi.Application.Cart;
+using PizzaProjectApi.Application.CartItem;
+using FluentValidation;
+using FluentValidation.AspNetCore;
+using PizzaProjectApi.Application.CartItem.Validators;
+using PizzaProjectApi.Application.ProductVariant;
+using PizzaProjectApi.Application.Shared.Services;
+using PizzaProjectApi.Infrastracture.Data.Repositories.Cart;
+using PizzaProjectApi.Infrastracture.Data.Repositories.Product;
+using PizzaProjectApi.Infrastracture.Data.Repositories.Category;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -30,17 +39,26 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 });
 
 builder.Services.AddAutoMapper(typeof(SharedMapper));
+builder.Services.AddValidatorsFromAssemblyContaining<CartItemCreateDtoValidator>();
+builder.Services.AddFluentValidationAutoValidation();
+
 
 //Services
 builder.Services.AddScoped<IIngredientService, IngredientService>();
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddScoped<ICartService, CartService>();
+builder.Services.AddScoped<ICartItemService, CartItemService>();
+builder.Services.AddScoped<ICalculateService, CalculateService>();
 //Repositories
 builder.Services.AddScoped<IIngredientRepository, IngredientRepository>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 builder.Services.AddScoped<ICartRepository, CartRepository>();
+builder.Services.AddScoped<ICartItemRepository, CartItemRepository>();
+builder.Services.AddScoped<IProductVariantRepository, ProductVariantRepository>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
 
 
 //Redis
